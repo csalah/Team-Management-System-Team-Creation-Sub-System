@@ -1,12 +1,13 @@
-# Sous-domaine Utilisateur
+# Subdomain: User
 
-- **Type**: Soutien
+- **Type**: Support
 
 
 - **Description**
 
-  Ce sous-domaine englobe l'ensemble des processus associés à l'interaction des utilisateurs avec le système. Cela inclut l'inscription des nouveaux utilisateurs, où ceux-ci créent un compte en fournissant des informations personnelles.
+This subdomain encompasses all processes related to user interaction with the system. This includes the registration of new users, where they create an account by providing personal information.
 
-- **Raisonnement**
+- **Rationale**
 
-  Ce domaine prend en charge les cas d'utilisation : Créer un compte, Se connecter, se déconnecter. Il est réutilisé dans des divers systèmes. 
+This subdomain supports the use cases: account creation, login, and logout. It is designed to be reused across various systems.
+  
