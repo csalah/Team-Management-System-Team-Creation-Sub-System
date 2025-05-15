@@ -1,12 +1,12 @@
-# Sous-domaine Équipe
+# Subdomain Team
 
-- **Type**: Principal
+- **Type**: Core
 
 
 - **Description**
 
-  Ce sous-domaine couvre l'ensemble des processus impliqués dans la création et la gestion des équipes au sein du système. Il permet aux utilisateurs de former des équipes pour les projets ou les devoirs, en établissant des groupes de travail collaboratifs qui peuvent interagir et communiquer efficacement.
+ This subdomain encompasses all processes involved in the creation and management of teams within the system. It allows users to form teams for projects or assignments, establishing collaborative workgroups that can interact and communicate effectively
+ 
+- **Rationale**
 
-- **Raisonnement**
-
-  La gestion des équipes est l'objectif principal du système. Ce sous-domaine couvre les cas d'utilisation : création, gestion (quit et join) et visualisation. C'est le noyau du système TMS.  
+Team management is the primary objective of the system. This subdomain covers use cases such as creation, management (quit and join), and visualization. It is the core of the TMS system.
