@@ -1,13 +1,13 @@
-# Sous-domaine Cours
+# Subdomain Courses
 
-- **Type**: Générique
+- **Type**: Generic
 
 
 - **Description**
 
-  Ce sous-domaine gère les informations relatives aux cours et sections, fournissant le contexte nécessaire à la formation des équipes en fonction des inscriptions des étudiants.
+This subdomain manages information related to courses and sections, providing the necessary context for team formation based on student enrollments.
 
 
-- **Raisonnement**
+- **Rationale**
     
-  Ce sous-domaine est essentiel pour la structuration et la gestion des équipes, car il fournit le contexte dans lequel les équipes sont formées. 
+This subdomain is essential for structuring and managing teams, as it provides the context in which teams are formed.
